@@ -1,1 +1,3 @@
 paper/arXiv*
+venv/
+__pycache__/
